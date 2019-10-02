@@ -1,0 +1,96 @@
+Nicole Barta>
+ownerLastName:Barta
+/=/ownerFullName:Nicole Barta
+/=/ownerPhone:0412529781
+/=/ownerPostalAddress:Ashgrove Central
+/=/ownerRtaID:987
+/=/ownerEmail:Divestra@senet.com
+/=/ownerAccountNumber:555
+/=/ownerName:Nicole
+/=/ownerMobile:0412529781
+/=/ownerReceiveEmails:0
+/=/ownerAddress:70 Northam Avenue
+/=/ownerABN:1234567891
+/=/ownerPostcode:4065
+/=/ownerAccountName:Nicole Danielle Barta
+/=/ownerBSB:111666
+;
+Alexandre Barta-Dougall>
+tenantEmail:
+/=/tenantAddress:
+/=/endDate:
+/=/tenantAccountName:123456
+/=/tenantPhone:
+/=/tenantAccountNumber:
+/=/tenantReceivesSubsidy:1
+/=/tenantDateOfBirth:
+/=/newBond:0
+/=/tenantLastName:Barta-Dougall
+/=/tenantReceiveEmails:0
+/=/tenantName:Alexandre
+/=/tenantPaymentMethod:0
+/=/tenantMobile:
+/=/bondPayment:
+/=/rentalBondNumber:
+/=/tenantBSB:654321
+/=/tenantRtaID:
+/=/startDate:
+<
+Gian Barta-Dougall>
+tenantEmail:
+/=/tenantAddress:
+/=/endDate:
+/=/tenantAccountName:
+/=/tenantPhone:0412529781
+/=/tenantAccountNumber:12321236
+/=/tenantReceivesSubsidy:0
+/=/tenantDateOfBirth:
+/=/newBond:1
+/=/tenantLastName:Barta-Dougall
+/=/tenantReceiveEmails:1
+/=/tenantName:Gian
+/=/tenantPaymentMethod:1
+/=/tenantMobile:0412529781
+/=/bondPayment:
+/=/rentalBondNumber:
+/=/tenantBSB:123321
+/=/tenantRtaID:
+/=/startDate:
+<
+Nicole Barta>
+tenantEmail:gian@email.com
+/=/tenantAddress:70 Northam Avenue
+/=/endDate:01/01/2020
+/=/tenantAccountName:Gian Barta-Dougall
+/=/tenantPhone:0412529781
+/=/tenantAccountNumber:1548724
+/=/tenantReceivesSubsidy:0
+/=/tenantDateOfBirth:07/06/2000
+/=/newBond:0
+/=/tenantLastName:Barta
+/=/tenantReceiveEmails:0
+/=/tenantName:Nicole
+/=/tenantPaymentMethod:0
+/=/tenantMobile:0412529781
+/=/bondPayment:500
+/=/rentalBondNumber:33333
+/=/tenantBSB:999888
+/=/tenantRtaID:321
+/=/startDate:01/01/2019
+;
+54 Watcombe Street>
+bedrooms:3
+/=/housePostcode:4044
+/=/totalBond:1860
+/=/dwellingType:1
+/=/rent:465
+/=/houseAddress:54 Watcombe Street
+<
+70 Northam avenue12>
+bedrooms:1
+/=/housePostcode:4443
+/=/totalBond:120
+/=/dwellingType:1
+/=/rent:30
+/=/houseAddress:70 Northam avenue12
+;
